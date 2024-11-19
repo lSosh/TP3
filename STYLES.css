@@ -41,7 +41,7 @@ header{ background: #000000;
    color: red;
 }
 #hero{background: #000000; 
-    background: -webkit-linear-gradient(to top, #e74c3c, #000000);  
+    background: -webkit-linear-gradient(to top, #e74c3c , #000000);  
     background: linear-gradient(to top, #e74c3c, #000000); 
 
     display: flex;  
